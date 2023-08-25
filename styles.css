@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+.body{
+    background-color: palevioletred;
+}
+.div>.h1{
+    display: flex;
+    justify-content: center;
+    background-color: hsl(351, 87%, 82%);
+    border: 1px solid black;
+    color:green;
+}
